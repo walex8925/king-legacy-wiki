@@ -33,3 +33,7 @@ All content follows a four-tier verification system:
 | ⚠️ **Likely but Unverified** | Multiple high-signal sources agree | Community wikis, guide sites |
 | ❓ **Disputed** | Conflicting information across sources | Multiple community reports |
 | 📜 **Outdated** | Confirmed historical information only | Old patch notes, archived pages |
+
+# wiki
+
+[King Legacy Wiki](https://www.kinglegacy.xyz)
